@@ -64,3 +64,5 @@ echo verificarEdad(17);
 ```
 
 ![Consulta](geminifunciones.png "Consulta ")
+
+[Exposicion](https://gamma.app/docs/Introduccion-a-PHP-yu9fg4ynx5j5xtz)
